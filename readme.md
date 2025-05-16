@@ -22,3 +22,7 @@ Dengan menggunakan URL yang sama, artinya publisher dan subscriber terhubung ke 
 * Publisher dapat mengirim pesan ke antrian (user_created)
 
 * Subscriber dapat menerima pesan dari antrian yang sama
+
+## Gambar 
+Gambar yang memperlihatkan `rabbitmq` berjalan di mesin saya
+![Gambar servis rabbitmq di localhost:15672 mesin saya](./rabbitmq_run.png)
